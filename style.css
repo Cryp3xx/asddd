@@ -1,0 +1,8 @@
+.navbar-brand {
+color: gray;
+}
+
+.allcards {
+display:flex;
+justify-content: space-evenly;
+}
